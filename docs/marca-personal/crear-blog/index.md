@@ -23,18 +23,21 @@ Lo que busco generalmente cuando comienzo un proyecto es automatizar lo mas posi
 Asi que, con mis drivers en mente, comencé a investigar y llegue a jekyll y github pages. Voy a explicarte la forma más rápida y barata de hacer una página estática y comenzar a subir tu contenido sin saber programar.
 
 ## Conocimientos necesarios
+
 - **Markdown**: para escribir las entradas del blog
 - **Git**: nivel básico para control versiones
 
 ## Pre requisitos
+
 ### Servicios
 - **Github account**: para comenzar debes tener una cuenta de github creada.
+
 ### Local
 - **Visual Studio Code**: o cualquier editor de texto que entienda markdown.
 - **Git**: para versionar el codigo de la pagina y los posts del blog.
 
 ## Base teórica
-Antes de comenzar vamos con un poco de contexto rápido.
+Antes de comenzar vamos con un poco de contexto rápido. Dejemos que ChatGPT haga su magia...
 
 ### Que es Git?
 Git es un sistema de control de versiones distribuido. Sirve para gestionar y registrar cambios en el código fuente, facilitando la colaboración entre desarrolladores y el seguimiento de la historia del proyecto.
