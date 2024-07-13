@@ -63,6 +63,3 @@ Recurso: [ruby-lang.org](https://www.ruby-lang.org/)
 Jekyll es un generador de sitios estáticos escrito en Ruby. Sirve para convertir archivos de texto plano en sitios web estáticos, ideal para blogs y proyectos de documentación, y es compatible con GitHub Pages para una fácil publicación.
 
 Recurso: [jekyllrb.com](https://jekyllrb.com/)
-
-___
-

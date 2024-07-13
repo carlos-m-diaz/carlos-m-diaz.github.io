@@ -15,4 +15,3 @@ Esto te llevará directamente a tu cuenta de github para crear un nuevo reposito
 5.- Configurar el pipeline
 Bla bla bla
 6.- Listo! Ya tienes una pagina gratis en github pages
-___
