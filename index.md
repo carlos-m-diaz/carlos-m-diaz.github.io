@@ -10,8 +10,23 @@ Soy un ingeniero de datos experto con una sólida trayectoria en la implementaci
 
 En este blog escribo acerca de mis experiencias, tecnologías, casos de uso, metodologías y cualquier otra tema de interés.
 
+## Certificaciones
 Actualmente me encuentro certificando mis conocimientos. Estos son algunos de mis badges:
+### 2024
+<table>
+    <tr>
+        <td>
+            <figure style="text-align: center;">
+                <a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/F66DA68AE70DC5AF?sharingId=A01AF8E18F379691">
+                    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="80%">
+                    <figcaption style="text-align: center;">Azure Fundamentals</figcaption>
+                </a>
+            </figure>
+        </td>
+    </tr>
+</table>
 
+### 2023
 <table>
     <tr>
         <td>
@@ -24,43 +39,12 @@ Actualmente me encuentro certificando mis conocimientos. Estos son algunos de mi
         </td>
         <td>
             <figure style="text-align: center;">
-                <a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/F66DA68AE70DC5AF?sharingId=A01AF8E18F379691">
-                    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="80%">
-                    <figcaption style="text-align: center;">Azure Fundamentals</figcaption>
+                <a href="https://credentials.databricks.com/2ee5d41e-5ae6-43d2-ae5c-7786d24d5d00#gs.bnrau0">
+                    <img src="https://templates.images.credential.net/16509948849242752807044385742422.png" alt="Databricks Lakehouse Fundamentals" width="50%">
+                    <figcaption style="text-align: center;">Databricks Lakehouse Fundamentals</figcaption>
                 </a>
             </figure>
         </td>
     </tr>
 </table>
 
-___
-test markdown
-
-[![Azure Data Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main){:width="80%"}](https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691)
-
-___
-
-test varios
-
-[![Azure Fundamentals Badge]](https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691)
-
-
-___
-Here is an inline ![smiley](smiley.png){:height="36px" width="36px"}.
-
-And here is a referenced ![smile]
-
-[smile]: smile.png
-{: height="36px" width="36px"}
-
-!Texto alternativo
-
-----
-
-[Azure Data Fundamentals]: (https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691)
-
-[Azure Fundamentals Badge]: (https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main){: width="80%"}
-
-[Azure Fundamentals]: (https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/F66DA68AE70DC5AF?sharingId=A01AF8E18F379691)
-
-{: height="36px" width="36px"}
