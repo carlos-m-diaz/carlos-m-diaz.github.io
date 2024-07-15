@@ -37,7 +37,7 @@ ___
 
 test markdown
 
-[![drawing](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main){:height="36px" width="36px"}](https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691)
+[![Azure Data Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main){:width="80%"}](https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691)
 
 
 ___
