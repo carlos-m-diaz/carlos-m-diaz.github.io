@@ -39,6 +39,11 @@ Asi que, con mis drivers en mente, comencé a investigar y llegue a jekyll y git
 ## Base teórica
 Antes de comenzar vamos con un poco de contexto rápido. Dejemos que ChatGPT haga su magia...
 
+### Qué es Visual Studio Code?
+Visual Studio Code es un editor de código fuente desarrollado por Microsoft. Sirve para escribir, depurar y editar código en múltiples lenguajes de programación, ofreciendo características como autocompletado, depuración integrada, y una amplia variedad de extensiones para personalizar su funcionalidad.
+
+Recurso: [code.visualstudio.com](https://code.visualstudio.com/)
+
 ### Que es Git?
 Git es un sistema de control de versiones distribuido. Sirve para gestionar y registrar cambios en el código fuente, facilitando la colaboración entre desarrolladores y el seguimiento de la historia del proyecto.
 
