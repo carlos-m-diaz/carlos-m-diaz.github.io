@@ -35,6 +35,15 @@ Actualmente me encuentro certificando mis conocimientos. Estos son algunos de mi
 
 ___
 
+test markdown
+
+[![drawing](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main){:height="36px" width="36px"}](https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691)
+
+
+___
+
+test varios
+
 ![https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)
 
 
@@ -43,7 +52,6 @@ ___
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/CA61EBE0DA3803AE?sharingId=A01AF8E18F379691">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Texto alternativo" width="30%">
 </a>
-
 
 
 [Azure Data Fundamentals]
@@ -68,9 +76,3 @@ And here is a referenced ![smile]
 [Azure Fundamentals]: (https://learn.microsoft.com/api/credentials/share/en-us/CarlosMDiaz/F66DA68AE70DC5AF?sharingId=A01AF8E18F379691)
 
 {: height="36px" width="36px"}
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
