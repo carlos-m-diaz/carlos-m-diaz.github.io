@@ -24,7 +24,7 @@ Coloca tu correo electronico y presiona **Continue**.
 
 ![email](/docs/marca-personal/crear-blog/github-pages-jekyll/images/2.png)
 
-{: .warning }
+{: .highlight }
 > Asegúrate de que tu clave sea diferente a tu nombre de usuario y no coincida con tu correo.
 
 ![pass](/docs/marca-personal/crear-blog/github-pages-jekyll/images/3.png)
@@ -50,7 +50,7 @@ Acceder al [template](https://just-the-docs.github.io/just-the-docs/#getting-sta
 
 Crea tu nuevo repositorio siguiendo el siguiente patrón: {nombre de tu repositorio}.github.io
 
-{: .warning }
+{: .highlight }
 > Es importante seguir el patrón mencionado arriba, de otra forma github no tomará tu repositorio como una página.
 
 ![repo name](/docs/marca-personal/crear-blog/github-pages-jekyll/images/9.png)
