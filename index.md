@@ -39,7 +39,7 @@ En desarrollo:
         <td>
             <figure style="text-align: center;">
                 <a href="https://credentials.databricks.com/2ee5d41e-5ae6-43d2-ae5c-7786d24d5d00#gs.bnrau0">
-                    <img src="https://templates.images.credential.net/16509948849242752807044385742422.png" alt="Databricks Lakehouse Fundamentals" width="40%">
+                    <img src="https://templates.images.credential.net/16509948849242752807044385742422.png" alt="Databricks Lakehouse Fundamentals" width="35%">
                     <figcaption style="text-align: center;">Databricks Lakehouse Fundamentals</figcaption>
                 </a>
             </figure>
