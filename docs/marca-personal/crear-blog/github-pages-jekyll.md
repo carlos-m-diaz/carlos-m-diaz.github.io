@@ -9,10 +9,10 @@ nav_order: 1
 # Creando una página web gratis con Github Pages y Jekyll
 Para no aburrirlos, voy primero con el resumen y luego con algo de detalle
 
-{: .important }
-- Crearemos una cuenta en Github: Será nuestro servidor de hosting. Aquí alojaremos nuestra página.
-- Crearemos la página a partir un template de jekyll: El template que usaremos está guardado en los repositorios de github. Debemos clonarlo para crear nuestra página.
-- Ajustaremos el pipeline en Github Actions para aplicar los cambios a nuestra pagina.
+{: .highlight }
+> - Crearemos una cuenta en Github: Será nuestro servidor de hosting. Aquí alojaremos nuestra página.
+> - Crearemos la página a partir un template de jekyll: El template que usaremos está guardado en los repositorios de github. Debemos clonarlo para crear nuestra página.
+> - Ajustaremos el pipeline en Github Actions para aplicar los cambios a nuestra pagina.
 
 ## Crear cuenta en github
 Primero lo primero: Vamos a crear una cuenta en github.
@@ -25,7 +25,7 @@ Coloca tu correo electronico y presiona **Continue**.
 ![email](/docs/marca-personal/crear-blog/github-pages-jekyll/images/2.png)
 
 {: .warning }
-Asegúrate de que tu clave sea diferente a tu nombre de usuario y no coincida con tu correo.
+> Asegúrate de que tu clave sea diferente a tu nombre de usuario y no coincida con tu correo.
 
 ![pass](/docs/marca-personal/crear-blog/github-pages-jekyll/images/3.png)
 
@@ -51,7 +51,7 @@ Acceder al [template](https://just-the-docs.github.io/just-the-docs/#getting-sta
 Crea tu nuevo repositorio siguiendo el siguiente patrón: {nombre de tu repositorio}.github.io
 
 {: .warning }
-Es importante seguir el patrón mencionado arriba, de otra forma github no tomará tu repositorio como una página.
+> Es importante seguir el patrón mencionado arriba, de otra forma github no tomará tu repositorio como una página.
 
 ![repo name](/docs/marca-personal/crear-blog/github-pages-jekyll/images/9.png)
 
