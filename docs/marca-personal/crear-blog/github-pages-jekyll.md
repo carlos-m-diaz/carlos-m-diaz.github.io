@@ -16,7 +16,7 @@ Para no aburrirlos, voy primero con el resumen y luego con algo de detalle
 
 ## Crear cuenta en github
 
-Puedes seguir el paso a paso en la siguiente página.
+Puedes seguir el paso a paso en la siguiente [página](https://cmdiaz.com/docs/marca-personal/crear-cuenta-github/#crear-cuenta-en-github).
 
 ## Crear página la partir de template de jekyll
 Acceder al [template](https://just-the-docs.github.io/just-the-docs/#getting-started) y ubica el vinculo "use the template" o simplemente presiona [aquí](https://github.com/just-the-docs/just-the-docs-template/generate)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Crear una cuenta en Git Hub
+title: Crear cuenta en GitHub
 parent: Marca Personal
 nav_order: 1
 has_children: false
