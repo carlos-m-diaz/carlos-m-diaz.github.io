@@ -15,33 +15,8 @@ Para no aburrirlos, voy primero con el resumen y luego con algo de detalle
 > - Ajustaremos el pipeline en Github Actions para aplicar los cambios a nuestra pagina.
 
 ## Crear cuenta en github
-Primero lo primero: Vamos a crear una cuenta en github.
-Accede a [github.com](https://github.com/) y presiona en **Sing Up**.
 
-![sing up](/docs/marca-personal/crear-blog/github-pages-jekyll/images/1.png)
-
-Coloca tu correo electronico y presiona **Continue**.
-
-![email](/docs/marca-personal/crear-blog/github-pages-jekyll/images/2.png)
-
-{: .highlight }
-> Asegúrate de que tu clave sea diferente a tu nombre de usuario y no coincida con tu correo.
-
-![pass](/docs/marca-personal/crear-blog/github-pages-jekyll/images/3.png)
-
-Pasa un largo proceso de verificación.
-
-![verification 1](/docs/marca-personal/crear-blog/github-pages-jekyll/images/4.png)
-
-![verification 2](/docs/marca-personal/crear-blog/github-pages-jekyll/images/5.png)
-
-Luego te enviaran un código a tu correo para verificarlo.
-
-![verification 3](/docs/marca-personal/crear-blog/github-pages-jekyll/images/6.png)
-
-Listo!! Ya tienes tu cuenta de github. Ahora entra con tu usuario y clave.
-
-![autentication](/docs/marca-personal/crear-blog/github-pages-jekyll/images/7.png)
+Puedes seguir el paso a paso en la siguiente página.
 
 ## Crear página la partir de template de jekyll
 Acceder al [template](https://just-the-docs.github.io/just-the-docs/#getting-started) y ubica el vinculo "use the template" o simplemente presiona [aquí](https://github.com/just-the-docs/just-the-docs-template/generate)
