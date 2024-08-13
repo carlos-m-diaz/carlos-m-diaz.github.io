@@ -6,7 +6,21 @@ nav_order: 1
 has_children: false
 ---
 
-# Crear cuenta en github
+# Crear cuenta en gitHub
+
+## Qué es GitHub
+
+GitHub es una herramienta escencial para cualquier persona que esté en el medio de la programación y los datos ya que permite gestionar el ciclo de vida del desarrollo de aplicaciones, realizar tareas de forma automatizada disparadas por eventos dentro del repositorio, controlar las versiones del codigo, gestionar proyectos, y mucho mas.
+Todo esto lo convierte una de la herramientas mas importantes (y posiblemente mas usada) dentro del mundo de la programación.
+
+{: .note-title }
+> Microsoft Copilot en Bing
+>
+> GitHub es una plataforma de desarrollo colaborativo que aloja proyectos utilizando el sistema de control de versiones Git. Principalmente, se utiliza para crear y gestionar el código fuente de programas de ordenador. Los desarrolladores pueden compartir su trabajo, seguir y administrar cambios en el código a lo largo del tiempo. Además, GitHub funciona como una red social para conectar desarrolladores y usuarios, permitiendo la colaboración y mejora de aplicaciones.
+
+Ahora si... a lo que vinimos!
+
+## Creando la cuenta
 
 Accede a [github.com](https://github.com/) y presiona en **Sing Up**.
 
